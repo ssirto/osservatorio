@@ -1,0 +1,16 @@
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\bin\Debug\net6.0-windows\osservatorio.exe
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\bin\Debug\net6.0-windows\osservatorio.deps.json
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\bin\Debug\net6.0-windows\osservatorio.runtimeconfig.json
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\bin\Debug\net6.0-windows\osservatorio.dll
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\bin\Debug\net6.0-windows\osservatorio.pdb
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.Form1.resources
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.csproj.GenerateResource.cache
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.AssemblyInfoInputs.cache
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.AssemblyInfo.cs
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.csproj.CoreCompileInputs.cache
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.dll
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\refint\osservatorio.dll
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.pdb
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\osservatorio.genruntimeconfig.cache
+C:\Users\sirtoli.20049\source\repos\osservatorio\osservatorio\obj\Debug\net6.0-windows\ref\osservatorio.dll
